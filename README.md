@@ -1,0 +1,2 @@
+# odoosamples
+useful odoo samples
