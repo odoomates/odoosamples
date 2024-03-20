@@ -9,7 +9,7 @@ server 127.0.0.1:8072;
 
 server {
 listen 80;
-odoomates.tech www.odoomates.tech;
+server_name odoomates.tech www.odoomates.tech;
 
 proxy_read_timeout 720s;
 proxy_connect_timeout 720s;
